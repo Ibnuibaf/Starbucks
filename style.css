@@ -32,7 +32,7 @@ body{
 }
 
 nav{
-    background-color: white;
+    background-color: #ffffff;
     padding: 1%;
     padding-left: 8%;
     padding-right: 9%;
@@ -105,7 +105,7 @@ nav{
     padding-right: 10%;
     background-color: #0e382c;
     height: 80px;
-    color: white;
+    color: #ffffff;
     align-items: center;
     display: flex;
     justify-content: space-between;
@@ -115,9 +115,9 @@ nav{
 }
 .adDiv button{
     background: transparent;
-    border-color: white;
+    border-color: #ffffff;
     font-weight: 600;
-    color: white;
+    color: #ffffff;
     height: 35px;
     width: 100px;
     border-radius: 20px;
@@ -202,7 +202,7 @@ nav{
     border-radius: 30px;
     border: none;
     background-color: #026843;
-    color: white;
+    color: #ffffff;
     font-weight: 600;
     transform: translateY(100px) translateX(15px);
 
@@ -228,7 +228,7 @@ nav{
     justify-content: space-between;
     height: 115px;
     width: 365px;
-    background-color: white;
+    background-color: #ffffff;
     border-radius: 10px;
     padding: 1.5%;
 }
@@ -249,7 +249,7 @@ nav{
 }
 .discClass button{
     background-color: #026843;
-    color: white;
+    color: #ffffff;
     font-weight: 700;
     border: none;
     border-radius: 20px;
@@ -283,7 +283,7 @@ nav{
     justify-content: space-between;
 }
 .logButton{
-    background-color: white;
+    background-color: #ffffff;
     color: #026843;
     font-weight: bolder;
     font-size: 10px;
@@ -325,7 +325,7 @@ nav{
 .footer button{
     background: transparent;
     border: none;
-    color: white;
+    color: #ffffff;
 }
 .mainfooter{
     
@@ -367,7 +367,7 @@ ul{
 }
 .scroll{
     text-decoration: none;
-    color: white;
+    color: #ffffff;
     font-size: 10px;
 
 }
